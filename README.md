@@ -2,11 +2,11 @@
 Guitar Tutor allows users to select audio files (currently only supports .wav files) that are then fingerprinted. Guitar Tutor attempts to match the audio fingerprints to real-time audio input through a microphone.
 Python Version: 2.7 (It will work fine with Python 2.7)
 
-# Important Notes
+# Things to keep in mind
 
 It only supports .WAV Files with 16 Bits per sample and a sample rate of 48,000kHz. So you can convert the .wav files to 16 Bits per sample before giving it as an input.
 
-# Dependencies
+# Packages
 
 The Various Libraries required for this project are listed down below:
 PyAudio (v0.2.8): 
@@ -24,7 +24,7 @@ Website - http://matplotlib.org/
 Python Package Index - https://pypi.python.org/pypi/matplotlib/1.3.1/ 
 pip install Matplotlib
 
-# Usage
+# How to use
 
 Run the audimatch.py Python script in the terminal
 Using the GUI, add a .wav file to match in realtime audio (Label, File Selection, and Category)
