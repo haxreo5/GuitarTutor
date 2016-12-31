@@ -9,6 +9,7 @@ It only supports .WAV Files with 16 Bits per sample and a sample rate of 48,000k
 # Packages
 
 The Various Libraries required for this project are listed down below:
+
 PyAudio (v0.2.8): 
 Website - http://people.csail.mit.edu/hubert/pyaudio/ 
 Python Package Index - https://pypi.python.org/pypi/PyAudio/ 
